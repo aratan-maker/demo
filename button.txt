@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>usng btton with event function </title>
+	</head>
+	<body>
+		<button onclick="alert("Welcome to gotworld")">Click here</button>
+	</body>
+</html>
